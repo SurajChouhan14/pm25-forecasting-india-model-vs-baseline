@@ -3,7 +3,7 @@ Title
 PM2.5 Forecasting in India — Model vs Baseline
 
 Open in Colab
-Open in Colab: https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/YOUR_NOTEBOOK.ipynb
+Open in Colab: https://colab.research.google.com/github/SurajChouhan14/pm25-forecasting-india-model-vs-baseline/blob/main/pm2_5_forecasting_india_model_vs_baseline.ipynb
 
 Overview
 End-to-end PM2.5 forecasting pipeline with:
